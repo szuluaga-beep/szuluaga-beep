@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <h1 align="center">Hi 👋, I'm Steven Zuluaga Cortes</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
