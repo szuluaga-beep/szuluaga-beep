@@ -5,7 +5,7 @@
           src="https://komarev.com/ghpvc/?username=szuluaga-beep&label=Profile%20views&color=0e75b6&style=flat"
           alt="szuluaga-beep" /> </p>
 
-- 🔭 I’m currently working on **CódigoC13**
+- 🔭 I’m currently working on **Front End (Angular, React)**
 
 - 🌱 I’m currently learning **React Native and Business Intelligence**
 
