@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning **React Native and Business Intelligence**
 
-- 👨‍💻 All of my projects are available at
-[[https://portafolio-steven.netlify.app/](https://szuluaga-beep.github.io/)]([https://portafolio-steven.netlify.app/](https://szuluaga-beep.github.io/))
+- 👨‍💻 All of my projects are available at 
+<a href="https://szuluaga-beep.github.io/" target="_blank" rel="noopener noreferrer">Portafolio</a>
 
 - 📫 How to reach me **stevenzuluaga54@gmail.com**
 
