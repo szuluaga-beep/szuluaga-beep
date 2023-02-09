@@ -5,9 +5,9 @@
           src="https://komarev.com/ghpvc/?username=szuluaga-beep&label=Profile%20views&color=0e75b6&style=flat"
           alt="szuluaga-beep" /> </p>
 
-- 🔭 I’m currently working on **Front End (Angular, React)**
+- 🔭 I’m currently working on **Front End (Next JS, React JS, Gatsby)**
 
-- 🌱 I’m currently learning **React Native and Business Intelligence**
+- 🌱 I’m currently learning **Ionic and Next JS**
 
 - 👨‍💻 All of my projects are available at 
 <a href="https://szuluaga-beep.github.io/" target="_blank" rel="noopener noreferrer">Portafolio</a>
