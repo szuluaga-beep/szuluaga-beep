@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Ionic and Next JS**
 
 - 👨‍💻 All of my projects are available at 
-<a href="[https://szuluaga-beep.github.io/](https://portfolio-drab-rho-76.vercel.app/)" target="_blank" rel="noopener noreferrer">Portafolio</a>
+[Portafolio](https://portfolio-drab-rho-76.vercel.app/)
 
 - 📫 How to reach me **stevenzuluaga54@gmail.com**
 
