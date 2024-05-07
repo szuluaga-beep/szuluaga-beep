@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Zuluaga Cortes</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate full stack developer from Colombia</h3>
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="100%">
 <p align="left"> <img
           src="https://komarev.com/ghpvc/?username=szuluaga-beep&label=Profile%20views&color=0e75b6&style=flat"
