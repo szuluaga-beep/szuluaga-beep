@@ -5,9 +5,9 @@
           src="https://komarev.com/ghpvc/?username=szuluaga-beep&label=Profile%20views&color=0e75b6&style=flat"
           alt="szuluaga-beep" /> </p>
 
-- 🔭 I’m currently working on **Front End (Next JS, React JS, Gatsby)**
+- 🔭 I’m currently working on **Flutter and Nest JS**
 
-- 🌱 I’m currently learning **Ionic and Next JS**
+- 🌱 I’m currently learning **Flutter and Nest JS**
 
 - 👨‍💻 All of my projects are available at 
 [Portafolio](https://portfolio-drab-rho-76.vercel.app/)
