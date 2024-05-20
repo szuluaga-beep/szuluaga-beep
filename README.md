@@ -9,8 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter and Nest JS**
 
-- 👨‍💻 All of my projects are available at 
-[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/](https://portfolio-final-lilac.vercel.app/))
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-final-lilac.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szuluagadev/)
 
 - 📫 How to reach me **stevenzuluaga54@gmail.com**
 
