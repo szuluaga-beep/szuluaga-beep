@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Flutter and Nest JS**
 
 - 👨‍💻 All of my projects are available at 
-[Portafolio]([https://portfolio-drab-rho-76.vercel.app/](https://portfolio-final-lilac.vercel.app/))
+[Portafolio]([https://portfolio-drab-rho-76.vercel.app/](https://portfolio-final-lilac.vercel.app/])
 
 - 📫 How to reach me **stevenzuluaga54@gmail.com**
 
