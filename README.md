@@ -5,9 +5,9 @@
           src="https://komarev.com/ghpvc/?username=szuluaga-beep&label=Profile%20views&color=0e75b6&style=flat"
           alt="szuluaga-beep" /> </p>
 
-- 🔭 I’m currently working on **Flutter and Nest JS**
+- 🔭 I’m currently working on **Flutter, Next JS and Nest JS**
 
-- 🌱 I’m currently learning **Flutter and Nest JS**
+- 🌱 I’m currently learning **Flutter Next JS and Nest JS**
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-final-lilac.vercel.app/)
